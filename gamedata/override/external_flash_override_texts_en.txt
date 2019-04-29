@@ -1,0 +1,36 @@
+wulles=wulles
+sirio=sirio
+
+notification.hotel.event.linkTitle=Go to Room
+notification.hotel.event.linkUrl=event:navigator/goto/%ROOMID%
+notification.hotel.event.message=<b>%USERNAME%</b> is holding an event now.<br>And you can win several prizes!<br><br><i>The event will be: %MESSAGE%</i></b><br><br>We are waiting for you there!
+notification.hotel.event.title=New Event
+notification.hotel.event.image=${url.prefix}/c_images/notifications/eventswulles.png
+
+arcturus=arcturus
+habbo=habbo
+
+infostand.button.savebranding=Save
+notifications.motd.title=Mensagem pra você
+help.cfh.reason.sex_and_pii=Conteúdo sexual
+help.cfh.reason.trolling=Má conduta e Troll
+help.cfh.reason.interruption=Atrapalhar o jogo
+help.cfh.reason.room=Comportamento violento
+help.cfh.reason.help=Ajuda
+help.cfh.topic.7=Links inapropriados
+navigator.flatcategory.global.TRADE=Trading
+navigator.flatcategory.global.RECOMMENDED=Recommended For You
+navigator.flatcategory.global.HLIFE=Habbo Life
+navigator.flatcategory.global.NEWVI=New
+navigator.flatcategory.global.BC=Builders Club
+navigator.flatcategory.global.BUILDING=Building and decoration
+navigator.flatcategory.global.CHAT=Chat and discussion
+navigator.flatcategory.global.FANSITE=Fansite Square
+navigator.flatcategory.global.GAMES=Habbo Games
+navigator.flatcategory.global.HELP=Help Centers
+navigator.flatcategory.global.LIFE=Habbo Life
+navigator.flatcategory.global.OFFICIAL=New
+navigator.flatcategory.global.PARTY=Party
+navigator.flatcategory.global.PERSONAL=Personal Space
+navigator.flatcategory.global.REVIEWS=Habbo Reviews
+navigator.flatcategory.global.TRADING=Trading
