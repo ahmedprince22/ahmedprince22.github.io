@@ -19,6 +19,7 @@ ACB_HHSG_badge_name=TheTeuthidaChampion
 ACC_HHAU_badge_name=ApeBadge
 ACC_HHSG_badge_name=TheSimianChampion
 avatar.widget.change_bot_motto=Change Bot Moto
+bot.skill.moto.configuration.title=Change Bot Moto
 ACH_AllTimeHotelPresence1_badge_name=AllTimeHotelPresence1
 ACH_AllTimeHotelPresence2_badge_name=AllTimeHotelPresence2
 ACH_AllTimeHotelPresence3_badge_name=AllTimeHotelPresence3
