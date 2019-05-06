@@ -3,6 +3,7 @@ game.center.enabled.forStaff=true
 game.center.enabled=true
 game.center.promoted_game=
 game_center.image.library.url=https://assets.thefastfoodgame.com/gamecenter/
+client.debug.env.send=1
 
 ads.domain=https://ahmedprince22.github.io
 seasonalcurrencyindicator.currency=103
