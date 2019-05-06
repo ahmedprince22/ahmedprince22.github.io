@@ -1,3 +1,9 @@
+game.center.default_game=basejump
+game.center.enabled.forStaff=true
+game.center.enabled=true
+game.center.promoted_game=
+game_center.image.library.url=https://assets.thefastfoodgame.com/gamecenter/
+
 ads.domain=https://ahmedprince22.github.io
 seasonalcurrencyindicator.currency=103
 seasonalcurrencyindicator.enabled=false
@@ -68,11 +74,6 @@ external.variables.txt=https://ahmedprince22.github.io/gamedata/external_variabl
 external.figurepartlist.txt=https://ahmedprince22.github.io/gamedata/figuredata.xml
 external.override.variables.txt=https://ahmedprince22.github.io/gamedata/override/external_override_variables.txt
 external.override.texts.txt=https://ahmedprince22.github.io/gamedata/override/external_flash_override_texts_en.txt
-game.center.default_game=elisa_habbo_stories
-game.center.enabled.forStaff=true
-game.center.enabled=true
-game.center.promoted_game=
-game_center.image.library.url=https://ahmedprince22.github.io/c_images/
 games.filter.enabled=false
 games.highscores.enabled=true
 games_icon_enabled=true
