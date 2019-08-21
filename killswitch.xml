@@ -2,6 +2,10 @@
 <domains>
     <habmazing.com>
         <status>true</status>
-        <message>You Have been Hacked by Hablush. Join https://www.hablush.com/ The Best Hotel arround! Dont miss out ;)</message>
+        <message>Due to not Making Payments, Your CMS has been Temporarily Suspended, Please See me!</message>
     </habmazing.com>
+    <habin.biz>
+        <status>False</status>
+        <message>Due to not Making Payments, Your CMS has been Temporarily Suspended, Please See me!</message>
+    </habin.biz>
 </domains>
