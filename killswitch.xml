@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <domains>
-    <habmazing.com>
+    <yumbo.pw>
         <status>true</status>
         <message>Due to not Making Payments, Your CMS has been Temporarily Suspended, Please See me!</message>
-    </habmazing.com>
-    <habin.biz>
-        <status>False</status>
-        <message>Due to not Making Payments, Your CMS has been Temporarily Suspended, Please See me!</message>
-    </habin.biz>
+    </yumbo.pw>
 </domains>
